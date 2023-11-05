@@ -60,7 +60,7 @@ cmake --build .
 
 ### Linux
 1. Download `GeoAudio` ZIP file and unzip it.
-2. Copy `OpenAL.a` from your environment to `GeoAudio/lib/` directory.
+2. Copy `OpenAL.a` from your environment to `GeoAudio/libs/` directory.
 3. Run following command in terminal.
 ```
 mkdir build
