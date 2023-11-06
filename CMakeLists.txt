@@ -15,7 +15,7 @@ add_library(GeoAudio SHARED ${source})
 
 target_include_directories(GeoAudio INTERFACE "../includes/")
 
-target_link_libraries(GeoAudio PRIVATE "../resources/libs/OpenAL32")
+target_link_libraries(GeoAudio PRIVATE "../libs/OpenAL32")
 
 set_target_properties(
     GeoAudio

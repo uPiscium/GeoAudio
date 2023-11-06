@@ -1,8 +1,8 @@
 #pragma once
 #include <vector>
 
-#include "../resources/includes/openal/al.h"
-#include "../resources/includes/openal/alc.h"
+#include "openal/al.h"
+#include "openal/alc.h"
 
 #include "exceptions.h"
 
