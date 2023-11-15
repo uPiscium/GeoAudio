@@ -1,1 +1,12 @@
-﻿  GeoAudio.vcxproj -> C:\Users\Mr.W\Documents\GeoSeries\GeoAudio\x64\Debug\GeoAudio.exe
+﻿  listener.cpp
+  source.cpp
+C:\Users\Mr.W\Documents\GeoSeries\GeoAudio\src\source.cpp(42,30): warning C4267: '引数': 'size_t' から 'ALsizei' に変換しました。データが失われているかもしれません。
+  main.cpp
+C:\Users\Mr.W\Documents\GeoSeries\GeoAudio\test\main.cpp(17,78): warning C4244: '引数': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=ALshort
+          ]
+C:\Users\Mr.W\Documents\GeoSeries\GeoAudio\test\main.cpp(40,35): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  コードを生成中...
+  GeoAudio.vcxproj -> C:\Users\Mr.W\Documents\GeoSeries\GeoAudio\x64\Debug\GeoAudio.exe

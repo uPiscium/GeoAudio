@@ -1,4 +1,4 @@
-#include "../includes/source.h"
+#include "../includes/source.hpp"
 
 namespace GeoAudio {
 AudioContext::AudioContext() {

@@ -4,8 +4,8 @@
 #include "openal/al.h"
 #include "openal/alc.h"
 
-#include "exceptions.h"
-#include "listener.h"
+#include "exceptions.hpp"
+#include "listener.hpp"
 
 namespace GeoAudio {
 enum class AudioFormat {

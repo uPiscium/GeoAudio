@@ -4,7 +4,7 @@
 #include "openal/al.h"
 #include "openal/alc.h"
 
-#include "exceptions.h"
+#include "exceptions.hpp"
 
 namespace GeoAudio {
 class Listener {

@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\includes\exceptions.h">
+    <ClInclude Include="..\includes\exceptions.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="..\includes\GeoAudio.h">
+    <ClInclude Include="..\includes\GeoAudio.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="..\includes\listener.h">
+    <ClInclude Include="..\includes\listener.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="..\includes\source.h">
+    <ClInclude Include="..\includes\source.hpp">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>

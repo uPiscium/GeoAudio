@@ -140,10 +140,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\includes\exceptions.h" />
-    <ClInclude Include="..\includes\GeoAudio.h" />
-    <ClInclude Include="..\includes\listener.h" />
-    <ClInclude Include="..\includes\source.h" />
+    <ClInclude Include="..\includes\exceptions.hpp" />
+    <ClInclude Include="..\includes\GeoAudio.hpp" />
+    <ClInclude Include="..\includes\listener.hpp" />
+    <ClInclude Include="..\includes\source.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\listener.cpp" />

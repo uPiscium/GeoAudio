@@ -1,4 +1,4 @@
-#include "../includes/listener.h"
+#include "../includes/listener.hpp"
 
 namespace GeoAudio {
 Listener::Listener() {
